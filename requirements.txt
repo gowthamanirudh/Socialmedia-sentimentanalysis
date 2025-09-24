@@ -1,0 +1,11 @@
+textblob
+pandas
+matplotlib
+emoji
+spacy
+nltk
+scikit-learn
+joblib
+torch
+transformers
+kaggle
